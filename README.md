@@ -1,1 +1,1 @@
-# Parser-weather-form-yandex.py
+# Parser-weather-form-yandex
